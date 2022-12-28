@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Double_Dice</string>
+    <string name="_1">1</string>
+    <string name="__1">1</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="todo">TODO</string>
+    <string name="todo_">TODO</string>
+</resources>
